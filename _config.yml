@@ -1,0 +1,14 @@
+layout_spectrum: 0.8254315862432122
+typography_spectrum: 0.6403721643146127
+color:
+  brandStrength: 0.018873254768550396
+  lightness: 0.21951512480154634
+  saturation: 0.8234887400176376
+  rhythmicContrast: 0.5188845093362033
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: vertdepluie
