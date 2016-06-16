@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vertdepluie]]></title>
         <description><![CDATA[vertdepluie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vertdepluie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 23:16:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 23:16:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vertdepluie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76509de5abe8abe597b6d8c7c55f6c3e/croprotate.jpg?cropheight=364&cropwidth=666&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F096e9f70-97dc-4df7-a11d-567e99bb0696.jpg&x=0&y=28">]]></description>
+            <link>https://thegrid.ai/vertdepluie/0806eb23-6c66-4619-b07f-878579983f02/index.html</link>
+            <guid isPermaLink="false">0806eb23-6c66-4619-b07f-878579983f02</guid>
+            <pubDate>Thu, 16 Jun 2016 23:16:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab0a8508-e675-432f-a830-0410a42c2e30.jpg">]]></description>
-            <link>undefinede6129bc8-d4e0-4335-a6f7-320853df097b/index.html</link>
+            <link>https://thegrid.ai/vertdepluie/e6129bc8-d4e0-4335-a6f7-320853df097b/index.html</link>
             <guid isPermaLink="false">e6129bc8-d4e0-4335-a6f7-320853df097b</guid>
             <pubDate>Thu, 16 Jun 2016 23:16:51 GMT</pubDate>
         </item>
